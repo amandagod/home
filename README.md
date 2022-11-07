@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <!-- 👨‍💻 Todos os meus projetos estão disponíveis em [amanda.github.io/portfolio/](amandagod.github.io/portfolio/)-->
 
-- 💬 Pergunte-me sobre **Java Script, bootstrap**
+- 💬 Pergunte-me sobre **JavaScript, bootstrap**
 
 - ⚡ Curiosidade **Mineira, se aventurando por SP - Capital**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kaique-lima-17738210a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaique-lima-17738210a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amandagod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amandagod" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
