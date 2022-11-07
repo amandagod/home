@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Oi 👋, eu sou a Amanda</h1>
 <h3 align="center">Apaixonada por tecnologia, com foco em desenvolvimento web!</h3>
 
-- 🔭 Atualmente estou buscando uma oportunidade como **estagiária**
+- 🔭 Atualmente buscando uma oportunidade como **estagiária**
 
 - 🌱 Atualmente estou aprendendo **Desenvolvimento Web**
 
